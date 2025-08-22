@@ -1,16 +1,17 @@
-## Hi there 👋
+はじめまして！
+銀行員からエンジニアへのキャリアチェンジを目指して、現在プログラミングを学習中です。
 
-<!--
-**k213009/k213009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+これまでの経験
+銀行員として、日々多くのお客様のライフプランや事業計画に触れてきました。特に、素晴らしいアイデアや情熱を持ちながらも、事業計画書の作成や資金計画といった専門的な壁に直面し、夢の実現に苦労されている創業者の方々を数多く見てきました。
 
-Here are some ideas to get you started:
+エンジニアを目指す理由
+その経験から、「専門知識をテクノロジーの力で補い、誰もが安心して挑戦できる仕組みを作りたい」と強く思うようになりました。ユーザーの課題を深く理解し、それを解決する実用的なアプリケーションを自らの手で開発することに、大きなやりがいを感じています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+現在学習中の技術
+フロントエンド: HTML, CSS, JavaScript
+
+バックエンド: Node.js, Express.js
+
+育児休業の期間を活用して学習に励んでいます。現場での経験と新しく習得した技術を掛け合わせ、ユーザーに寄り添った開発ができるエンジニアになることが目標です。
+
+どうぞよろしくお願いいたします。
