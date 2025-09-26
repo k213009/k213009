@@ -6,7 +6,7 @@
 
 🏡 うちなー収益物件シミュレーター
 
-[**GitHubリポジトリへ**](https://github.com/k213009/uchina-real-estate-sim)
+[**GitHubリポジトリへ**](https://github.com/k213009/real-estate-simulation)
 
 沖縄の不動産市場に特化した、プロ仕様の投資分析ツールです。元銀行員の経験を活かし、物件情報から銀行評価額や35年間の長期収支を瞬時にシミュレーションします。
 
